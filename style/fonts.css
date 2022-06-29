@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'RR';
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: 'RB';
+    src: url(../fonts/Roboto-Bold.ttf);
+}
+@font-face{
+    font-family: 'MR';
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf);
+}
+@font-face {
+    font-family: 'MSB';
+    src: url(../fonts/Montserrat/Montserrat-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'MBI';
+    src: url(../fonts/Montserrat/Montserrat-BoldItalic.ttf);
+}
+@font-face {
+    font-family: 'MB';
+    src: url(../fonts/Montserrat/Montserrat-Black.ttf);
+}
+@font-face {
+    font-family: 'TBI';
+    src: url(../fonts/Trebuchet/Trebuchet-BoldItalic.ttf);
+}
+@font-face {
+    font-family: 'TB';
+    src: url(../fonts/Trebuchet/TrebuchetMS-Bold.ttf);
+}
+@font-face {
+      font-family: 'KS';
+      src:url(../fonts/KaushanScript-Regular.ttf) ;
+}
+@font-face {
+font-family: 'KD';
+src: url(../fonts/KdamThmorPro-Regular.ttf);
+}
